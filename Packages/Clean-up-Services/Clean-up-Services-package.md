@@ -65,7 +65,7 @@ Copy the following to the **Top** of your docker-compose.yaml. **Make sure this 
 
 ```
 include:
-  - https://github.com/chaoskjell44/
+  - https://github.com/Chaoskjell44/Ticketsbot-selfhost-guide-addons/blob/main/Packages/Clean-up-Services/docker-compose.yaml
 ```
 
 Then copy the contents of the provided [.env.example](/Packages/Clean-up-Services/.env.example) file into your .env file from the guide.
